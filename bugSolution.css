@@ -1,0 +1,1 @@
+Ensure there are spaces around the +, -, *, and / operators within the calc() function.  Maintain consistent units throughout the calculation. For example, use `width: calc(100% - 5px);` instead of `width:calc(100%-5px);`.
