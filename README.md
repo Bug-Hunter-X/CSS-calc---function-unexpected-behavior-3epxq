@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with the CSS `calc()` function: unexpected results due to incorrect spacing or unit mixing. The `bug.css` file contains the problematic code, while `bugSolution.css` shows the corrected version.  The issue often arises from forgetting spaces around the arithmetic operators or using inconsistent units within the calculation.
